@@ -11,7 +11,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <testng.version>6.14.3</testng.version>
         <jmaq.version>0.0.1-SNAPSHOT</jmaq.version>
-        <appiumjavaclient.version>7.0.0</appiumjavaclient.version>
+        <appiumjavaclient.version>7.4.1</appiumjavaclient.version>
     </properties>
 
     <build>
